@@ -1,0 +1,10 @@
+export { TokenExplorer } from "./TokenExplorer";
+export { TextStats } from "./TextStats";
+export { NamedEntities } from "./NamedEntities";
+export { PartOfSpeech } from "./PartOfSpeech";
+export { Dependencies } from "./Dependencies";
+export { Lemmatization } from "./Lemmatization";
+export { WordVectors } from "./WordVectors";
+export { Sentences } from "./Sentences";
+export { StopWords } from "./StopWords";
+export { ModelInfo } from "./ModelInfo";
