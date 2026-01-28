@@ -1,0 +1,13 @@
+.next
+node_modules
+.venv
+.git
+.gitignore
+README.md
+bun.lockb
+.env
+.env.local
+*.log
+dist
+build
+.DS_Store

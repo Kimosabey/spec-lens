@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  nlp-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: speclens-nlp
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./nlp:/app/nlp
+    restart: unless-stopped
