@@ -80,8 +80,13 @@ bun install && bun run dev
 ## 👤 Author
 
 **Harshan Aiyappa**  
-Senior Full-Stack Hybrid Engineer  
-[GitHub Profile](https://github.com/Kimosabey)
+Senior Full-Stack Hybrid AI Engineer  
+Voice AI • Distributed Systems • Infrastructure
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimo--nexus.vercel.app-00C7B7?style=flat&logo=vercel)](https://kimo-nexus.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kimosabey-black?style=flat&logo=github)](https://github.com/Kimosabey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshan_Aiyappa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/harshan-aiyappa)
+[![X](https://img.shields.io/badge/X-@HarshanAiyappa-black?style=flat&logo=x)](https://x.com/HarshanAiyappa)
 
 ---
 

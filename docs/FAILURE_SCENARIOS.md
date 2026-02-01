@@ -1,8 +1,12 @@
-# 🛡️ Failure Scenarios & Resilience
+# 🛡️ Failure Scenarios & Resilience: SpecLens
 
 > "NLP is heavy. The UI must stay light."
 
 This document outlines how SpecLens handles backend latency and failures.
+
+![Workflow](./assets/workflow.png)
+
+---
 
 ## 1. Failure Matrix
 

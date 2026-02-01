@@ -1,9 +1,13 @@
-# 🚀 Getting Started with SpecLens
+# 🚀 Getting Started: SpecLens
 
 > **Prerequisites**
 > *   **Docker Desktop** (Recommended for NLP Service)
 > *   **Bun** (or Node.js v18+)
 > *   **Python 3.11+** (Only if running without Docker)
+
+![Dashboard Preview](./assets/dashboard.png)
+
+---
 
 ## 1. Environment Setup
 

@@ -1,8 +1,10 @@
-# 🏗️ System Architecture
+# 🏗️ System Architecture: SpecLens
 
 ## 1. High-Level Design (HLD)
 
 SpecLens is a **Hybrid NLP Architecture** that combines a high-performance Next.js frontend with a dedicated Python/NLP backend. It bridges the gap between unstructured text (Requirements Docs, PDFs) and structured system understanding (Knowledge Graphs, Dependency Trees).
+
+![Architecture](./assets/architecture.png)
 
 ```mermaid
 graph TD
